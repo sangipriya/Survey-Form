@@ -1,0 +1,48 @@
+*{
+    padding:5px;
+   margin-left:10px;
+   
+}
+
+.form{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgba(55, 9, 131, 0.836);
+    color: rgb(199, 199, 173);
+    padding:5px; 
+    
+}
+h1{
+    text-align: center;
+    
+}
+.fa{
+    color: yellow;
+}
+
+ table tr td{
+    
+    padding-top:10px;
+    padding-bottom:10px;
+    text-align: left;
+    border: 1px solid rgb(247, 212, 212);
+   
+}
+table{
+    border-collapse: collapse;
+    width: 80%;
+}
+.main{
+    margin-top: 5px;
+    width:600px;
+    height:100px;
+}
+
+.btn{
+    background-color: rgb(170, 153, 233);
+    border: 0px;
+   color: azure;
+}
+
+.btn:hover{
+    background-color: darkred;
+}
